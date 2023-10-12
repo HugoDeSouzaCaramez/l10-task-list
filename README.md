@@ -1,4 +1,4 @@
-Projeto CRUD de tarefas com Laravel, Alpinejs, Tailwindcss e Docker
+Projeto CRUD de tarefas com Laravel, Alpinejs, Tailwindcss e Docker.
 Projeto concluido.
 Para executar o projeto use:
 php artisan serve
